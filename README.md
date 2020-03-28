@@ -1,4 +1,5 @@
 # Domain Specific – NeMo ASR Application (restored from the running docker image)
+https://ngc.nvidia.com/catalog/containers/nvidia:nemo_asr_app_img
 
 The Domain Specific - NeMo Automatic Speech Recognition (ASR) Application facilitates training, evaluation and performance comparison of ASR models. This NeMo application enables you to train or **fine-tune** pre-trained (acoustic and language) **ASR models** with your **own data**. Through this application, we empower you to create (on-prem) your own ASR models built on your domain specific audio data, that may be sensitive and thus not suitable for cloud ASR solutions. This gives you the ability to progressively create better performing ASR models specifically built for your data.
 
